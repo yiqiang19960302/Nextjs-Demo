@@ -1,0 +1,17 @@
+.app_menu{
+    background-color: white;
+    border: none;
+    height: '100%';
+    :global{
+        .ant-menu-sub{
+            background-color: white;
+        }
+    }
+}
+
+.app_content_container{
+    height: calc(100vh - 112px);
+    overflow: hidden auto;
+    position: relative;
+    margin: 24px 16px;
+}

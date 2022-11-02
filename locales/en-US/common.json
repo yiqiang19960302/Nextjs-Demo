@@ -1,0 +1,21 @@
+{
+    "about_us" : "About Us",
+    "company_profile": "Company Profile",
+    "live_broadcast": "Live Broadcast",
+    "cloud_server":"Cloud Server",
+    "hot_products_and_solutions":"Hot Products & Solutions",
+    "company_culture": "Comapny Culture",
+    "user_cases":"Use Cases",
+    "certificates": "Certificate of Authorization",
+    "contact_us":"Contact Us",
+    "latest_news": "Latest News",
+    "blog": "Blog",
+    "latest_events": "Latest Events",
+    "cloud_news": "Cloud News",
+    "singapore_contact": "Singapore  {{email}}",
+    "shanghai_contact": "Shanghai  {{email}} ",
+    "taiwan_contact": "Taiwan  {{email}}",
+    "payment_methods": "Payment Methods",
+    "user_terms": "Terms&Condition",
+    "privacy_policy":"Privacy Policy"
+}

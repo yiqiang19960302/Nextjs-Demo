@@ -1,0 +1,8 @@
+{
+    "locales": ["tw", "en-US", "cn"],
+    "defaultLocale": "tw",
+    "pages": {
+      "*": ["common"],
+      "/companyprofile": ["companyprofile"]
+    }
+}

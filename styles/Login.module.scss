@@ -1,0 +1,26 @@
+.tabs_without_border {
+    :global {
+        .ant-tabs-nav::before {
+            border-bottom: none;
+        }
+    }
+}
+
+
+.login_button {
+    :global{
+        .ant-btn-primary{
+            width: 100%;
+            color: white;
+            background: linear-gradient(to right, #4B9AE2, #46CDCE);
+            box-shadow: 0px 2px 4px rgba(74, 175, 219, 0.3);
+            border-radius: 2px;
+            border-image: linear-gradient(to right, #4B9AE2, #46CDCE) 1;
+            :hover {
+                background: linear-gradient(to right, #3690CF, #4ACCCD) !important;
+                box-shadow: 4px 6px 10px rgba(74, 175, 219, 0.5);
+                border-image: linear-gradient(to right, #3690CF, #4ACCCD) 1;
+            }
+        }
+    }    
+}

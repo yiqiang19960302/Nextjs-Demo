@@ -1,0 +1,21 @@
+{
+    "about_us" : "關於我們",
+    "company_profile": "公司簡介",
+    "live_broadcast": "直播",
+    "cloud_server":"雲端伺服器",
+    "hot_products_and_solutions":"熱門產品及解決方案",
+    "company_culture": "企業文化",
+    "user_cases":"客戶案例",
+    "certificates": "搜權證書",
+    "contact_us":"聯絡我們",
+    "latest_news": "最新資訊",
+    "blog": "部落格",
+    "latest_events": "最新活動",
+    "cloud_news": "雲端焦點速報",
+    "singapore_contact": "新加坡 {{email}}",
+    "shanghai_contact": "上 海 {{email}} ",
+    "taiwan_contact": "台 灣 {{email}}",
+    "payment_methods": "多元支付方式",
+    "user_terms": "用戶條款T&C",
+    "privacy_policy":"隱私政策"
+}
