@@ -12,4 +12,4 @@ jobs:
         run: echo "random_number=$(($RANDOM % 2))" >> $GITHUB_OUTPUT
       - name: Pass or Fail
         run: |
-          if [[ ${{ steps.generate_number.outputs.random_number } == 0 ]]; then exit 0; else exit 1; fi
+          if [[ ${{ steps.generate_number.outputs.random_number }} == 0 ]]; then exit 0; else exit 1; fi
